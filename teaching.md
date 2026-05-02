@@ -9,7 +9,7 @@ title: Teaching
 
 ### Mentoring  
 
-- Benjamin Brender, Undergraduate thesis, Fall 2025-.  
+- Benjamin Brender, Undergraduate thesis, Fall 2025- Winter 2026.  
 - Arjun Dixit, Undergraduate project, Fall 2025-.  
 - Chaitanya Singh, Undergraduate project, Fall 2025-.  
 - Kartik Sharma, MITACS Globalink Research Intern, Summer 2023.  
