@@ -4,7 +4,7 @@ layout: home
 
 Email: praveen91299@gmail.com, praveen.jayakumar@inria.fr, praveen.jayakumar@mail.utoronto.ca  
 Affiliation(s): COSMIQ @ INRIA, CPTG @ University of Toronto  
-Office: C301, Centre Inria de Paris
+Office: C301, Centre Inria de Paris  
 [Google Scholar](https://scholar.google.ca/citations?user=E6uyG5IAAAAJ&hl=en) · [GitHub](https://github.com/Praveen91299) · [CV (Updated October 2026)](/assets/cv.pdf)
 
 ---
