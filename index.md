@@ -2,10 +2,10 @@
 layout: home
 ---
 
-Email: praveen91299@gmail.com, praveen.jayakumar@mail.utoronto.ca  
-Affiliation: Chemical Physics Theory Group, University of Toronto  
-Office: Lash Miller, LM 424  
-[Google Scholar](https://scholar.google.ca/citations?user=E6uyG5IAAAAJ&hl=en) · [GitHub](https://github.com/Praveen91299) · [CV (Updated May 2026)](/assets/cv.pdf)
+Email: praveen91299@gmail.com, praveen.jayakumar@inria.fr, praveen.jayakumar@mail.utoronto.ca  
+Affiliation(s): COSMIQ @ INRIA, CPTG @ University of Toronto  
+Office: C301, Centre Inria de Paris
+[Google Scholar](https://scholar.google.ca/citations?user=E6uyG5IAAAAJ&hl=en) · [GitHub](https://github.com/Praveen91299) · [CV (Updated October 2026)](/assets/cv.pdf)
 
 ---
 
@@ -28,7 +28,9 @@ Exploring intersection of fault tolerance and quantum algorithms.
 
 ## Curriculum Vitae
 
-- PhD Candidate, University of Toronto (2022-)
+- Post doctoral researcher, Centre Inria de Paris (2026- )
+
+- PhD Candidate, University of Toronto (2022-2026)
 
 - BS-MS Res. (Physics) @ Indian Institute of Science, Bengaluru (2017-2022)
 
